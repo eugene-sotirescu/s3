@@ -1,0 +1,14 @@
+/bin/
+/build/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+gradlew*
+gradle/wrapper/*
+*.cache-main
+*.gradle/
+*.settings
